@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<org.eventb.core.psFile>
+    <org.eventb.core.psStatus name="INITIALISATION/inv6/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="INITIALISATION/inv2/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="INITIALISATION/inv3/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="INITIALISATION/inv5/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="INITIALISATION/inv7/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="INITIALISATION/inv8/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="true"/>
+    <org.eventb.core.psStatus name="AddressExternalEvent/inv2/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="AddressExternalEvent/inv3/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectRelevantPlans/grd2/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectRelevantPlans/grd5/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectRelevantPlans/inv3/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectRelevantPlans/inv7/INV" org.eventb.core.confidence="0" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="compute_plan/grd3/WD" org.eventb.core.confidence="0" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="compute_plan/inv8/INV" org.eventb.core.confidence="0" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/grd1/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/grd10/WD" org.eventb.core.confidence="0" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/grd6/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/inv3/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/inv5/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/inv7/INV" org.eventb.core.confidence="0" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/inv8/INV" org.eventb.core.confidence="0" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="SelectApplicablePlan/act2/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="ExecuteAction/grd9/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="ExecuteAction/grd7/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="ExecuteAction/inv6/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="ExecuteAction/inv3/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="FailureRecoveryBlockedAction/grd2/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="FailureRecoveryBlockedAction/inv3/INV" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+    <org.eventb.core.psStatus name="FailureRecoveryBlockedAction/act1/WD" org.eventb.core.confidence="1000" org.eventb.core.poStamp="58" org.eventb.core.psBroken="true" org.eventb.core.psManual="false"/>
+</org.eventb.core.psFile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<org.eventb.core.contextFile org.eventb.core.configuration="org.eventb.core.fwd;de.prob.symbolic.ctxBase" version="3">
+    <org.eventb.core.extendsContext name="'" org.eventb.core.target="TermsContext"/>
+    <org.eventb.core.axiom name="axm1" org.eventb.core.label="axm1" org.eventb.core.predicate="partition(Predicate, Events, Actions, Plan_library)"/>
+    <org.eventb.core.axiom name="axm2" org.eventb.core.label="axm6" org.eventb.core.predicate="precondition ∈ (Actions × Terms) ↔ (Belief_predicates × Terms) "/>
+    <org.eventb.core.axiom name="axm3" org.eventb.core.label="axm7" org.eventb.core.predicate="delete_set ∈ (Actions × Terms) ↔ (Belief_predicates × Terms) "/>
+    <org.eventb.core.axiom name="axm4" org.eventb.core.label="axm8" org.eventb.core.predicate="add_set ∈ (Actions × Terms) ↔ (Belief_predicates × Terms) "/>
+    <org.eventb.core.axiom name="axm5" org.eventb.core.label="axm9" org.eventb.core.predicate="plan_body ∈ Events ⇸ (Plan_library⇸(ℙ(Belief_predicates×Terms)×Terms⇸ℙ(STACK(ℙ(Predicate × Terms)))))"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="true" name="cst1" org.eventb.core.identifier="precondition"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="true" name="cst2" org.eventb.core.identifier="delete_set"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="true" name="cst3" org.eventb.core.identifier="add_set"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="true" name="cst4" org.eventb.core.identifier="plan_body"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="false" name="cst5" org.eventb.core.identifier="Events"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="false" name="cst6" org.eventb.core.identifier="Actions"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="false" name="cst7" org.eventb.core.identifier="Plan_library"/>
+    <org.eventb.core.carrierSet name="set1" org.eventb.core.comment="a set of belief predicate symbols" org.eventb.core.identifier="Belief_predicates"/>
+    <org.eventb.core.carrierSet name="set2" org.eventb.core.identifier="Predicate"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="false" name="set3" org.eventb.core.identifier="Belief_Init"/>
+    <org.eventb.core.constant de.prob.symbolic.symbolicAttribute="false" name="set4" org.eventb.core.identifier="External_Event_Init"/>
+    <org.eventb.core.axiom name="set5" org.eventb.core.label="axm10" org.eventb.core.predicate="Belief_Init∈ℙ(Belief_predicates × Terms)"/>
+    <org.eventb.core.axiom name="set6" org.eventb.core.label="axm11" org.eventb.core.predicate="External_Event_Init∈ ℙ(Events × Terms)"/>
+</org.eventb.core.contextFile>

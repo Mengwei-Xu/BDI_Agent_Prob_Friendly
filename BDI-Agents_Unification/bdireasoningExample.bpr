@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<org.eventb.core.prFile version="1">
+    <org.eventb.core.prProof name="SelectRelevantPlans_Play/grd5/WD"/>
+    <org.eventb.core.prProof name="SelectRelevantPlans_Play/grd6/GRD"/>
+    <org.eventb.core.prProof name="SelectRelevantPlans_Play/grd5/GRD"/>
+    <org.eventb.core.prProof name="SelectRelevantPlans_Arrive/grd6/GRD"/>
+    <org.eventb.core.prProof name="SelectRelevantPlans_Arrive/grd5/GRD"/>
+    <org.eventb.core.prProof name="compute_plan1/grd3/WD"/>
+    <org.eventb.core.prProof name="compute_plan1/grd3/GRD"/>
+    <org.eventb.core.prProof name="compute_plan1/grd4/WD"/>
+    <org.eventb.core.prProof name="compute_plan2/grd3/WD"/>
+    <org.eventb.core.prProof name="compute_plan2/grd3/GRD"/>
+    <org.eventb.core.prProof name="compute_plan3/grd4/WD"/>
+    <org.eventb.core.prProof name="compute_plan3/grd3/WD"/>
+    <org.eventb.core.prProof name="compute_plan3/grd3/GRD"/>
+    <org.eventb.core.prProof name="compute_plan4/grd4/WD"/>
+    <org.eventb.core.prProof name="compute_plan4/grd3/WD"/>
+    <org.eventb.core.prProof name="compute_plan4/grd3/GRD"/>
+    <org.eventb.core.prProof name="compute_plan2/grd4/WD"/>
+    <org.eventb.core.prProof name="SelectRelevantPlans_Play/grd8/GRD"/>
+    <org.eventb.core.prProof name="SelectRelevantPlans_Arrive/grd8/GRD"/>
+</org.eventb.core.prFile>
